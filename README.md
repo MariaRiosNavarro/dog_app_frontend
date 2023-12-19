@@ -30,10 +30,10 @@ export default {
   theme: {
     extend: {
       colors: {
-        bgColor_darkgreen: "#283A45",
-        primaryColor_green: "#2A9D8F",
-        secondaryColor_red: "#A16171",
-        accentColor_yellow: "#E9C46A",
+        bgColor: "#283A45",
+        primaryC: "#2A9D8F",
+        secondaryC: "#A16171",
+        accentC: "#E9C46A",
       },
       screens: {
         smallmobile: "320px",
