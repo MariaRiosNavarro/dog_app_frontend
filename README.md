@@ -18,6 +18,12 @@ npx tailwindcss init -p
 
 npm i -D daisyui@latest
 
+<!-- Icons -->
+
+https://react-icons.github.io/react-icons/
+
+npm i react icons
+
 # - IN tailwind.config.js:
 
 ```javascript

@@ -2,7 +2,7 @@
 export default {
   content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   daisyui: {
-    themes: ["lemonade", "dark", "emerald"],
+    themes: ["lemonade", "emerald"],
   },
   theme: { extend: {} },
   // extend: {
