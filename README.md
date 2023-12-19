@@ -58,6 +58,19 @@ export default {
 };
 ```
 
+# index css
+
+```
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+```
+
 # Repo
 
 git init
